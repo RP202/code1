@@ -1,0 +1,12 @@
+#include <stdio.h>
+int main()
+{ 
+ float a,b;
+ a=2;
+ b=5;
+ printf("sum of a and b is %f\n", a+b);
+ printf("division of a and b %f\n", a/b);
+ printf("difference of a and b %f\n" ,a-b);
+ printf("multiplication of a and b %f\n", a*b);
+    
+}  
