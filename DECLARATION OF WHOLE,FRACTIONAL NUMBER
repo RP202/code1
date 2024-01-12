@@ -1,0 +1,11 @@
+//TO PRINT WE USE 
+printf("text we want");
+ //TO DECLARE ANY (or any whole numberwhole)VARIABLE
+ x=5;
+ printf("%d" ,x);
+ 
+  //to declre any interget decimal number i.e FLOAT
+  y=5.2
+  printf("%f" ,y);
+  
+  
