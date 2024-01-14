@@ -1,0 +1,16 @@
+// Online C compiler to run C program online
+#include <stdio.h>
+
+int main() {
+  int num1;
+  printf("Enter a number :");
+  scanf("%d/n" ,&num1);
+  if(num1>0){
+      printf("Given number is positive");
+      
+  }
+  else{
+      printf("Given number is Negvative");
+  }
+   
+}
